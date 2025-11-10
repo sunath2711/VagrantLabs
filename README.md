@@ -1,0 +1,1 @@
+The vagrant files help setup VMs and automate the process, this lab has .vagrant and Vagrantfile for centos and ubuntu setups - automating the same in porcess and also setting up wordpress website using Vagrant
